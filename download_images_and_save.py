@@ -8,7 +8,7 @@ import os
 # Prepare folders and urls
 base_folder = "output/"
 folders = [base_folder + "devlogos", base_folder + "random"]
-base_url = "https://gist.githubusercontent.com/StefMa/7b0ec5d2c5eddb34222ba9fb6392aea0/raw/a55df028bbafaac6e33618d70417bc53eed98807/"
+base_url = "https://raw.githubusercontent.com/StefMa/PythonDownloadImageAndSafe/master/exampleWebsite/"
 urls = [base_url + "devlogos.html", base_url + "random.html"]
 
 for folder in folders:
